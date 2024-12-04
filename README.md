@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude_AI-6B47ED?style=for-the-badge&logoColor=white)
 
 このリポジトリは、Claude Desktop MCPの機能をデモンストレーションするためのサンプルリポジトリです。
 
